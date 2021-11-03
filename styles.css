@@ -1,0 +1,46 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    box-sizing: border-box;
+}
+html, body {
+    text-align-all: center;
+}
+
+html {
+    display: table;
+    margin: auto;
+
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background:linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%) no-repeat center center fixed;
+}
+
+
+.button{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.generator{
+    text-align: center;
+    padding-top: 20px;
+    position: relative;
+}
+
+.textarea{
+    height:30px;width:40px;font-size:12pt;
+}
+.footer {
+    position: fixed;
+    padding: 100px 100px 100px 350px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/
+    height: 40px;
+
+}
